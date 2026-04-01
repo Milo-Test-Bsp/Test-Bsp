@@ -1,8 +1,12 @@
 {
-    "kty": "RSA",
-    "e": "AQAB",
-    "use": "sig",
-    "kid": "BSP Service User",
-    "alg": "RS256",
-    "n": "uAz_t9Y4X-vhp97Z3hnxQO4aAzOL81lXJOTMmr4athXYu5J2chox1mifZ8bsgFLzDD3T-4F46h89ewLguTkFKCFaJnkWqK0dCplxj_dWkEvReZ6wBTMYOo_0I3IN9nV6XgAjVjLodY4bKlAkrQRdd4_vf0i6foeUItwffdOI-cZ74iqzLKiht5ykh3BafqOarf4gI4VCqYdmXMHA5BRWVzr8lB0XNAIAz3L-2WNsOFkgSD01BgCBrm2cE3Q_IIozxns5OFiBqbmhm1jLlJqHJOdMl3xZW0UgNzEeuNIuS51hz5I56szvAxwzqR3CpkO06OeLgNjcZuC6Sx_2AaixNw"
+  "keys": [
+    {
+      "kty": "RSA",
+      "e": "AQAB",
+      "use": "sig",
+      "kid": "BSP Service User",
+      "alg": "RS256",
+      "n": "uAz_t9Y4X-vhp97Z3hnxQO4aAzOL81lXJOTMmr4athXYu5J2chox1mifZ8bsgFLzDD3T-4F46h89ewLguTkFKCFaJnkWqK0dCplxj_dWkEvReZ6wBTMYOo_0I3IN9nV6XgAjVjLodY4bKlAkrQRdd4_vf0i6foeUItwffdOI-cZ74iqzLKiht5ykh3BafqOarf4gI4VCqYdmXMHA5BRWVzr8lB0XNAIAz3L-2WNsOFkgSD01BgCBrm2cE3Q_IIozxns5OFiBqbmhm1jLlJqHJOdMl3xZW0UgNzEeuNIuS51hz5I56szvAxwzqR3CpkO06OeLgNjcZuC6Sx_2AaixNw"
+    }
+  ]
 }
